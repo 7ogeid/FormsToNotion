@@ -1,0 +1,6 @@
+# requirements.txt
+python-dotenv
+selenium
+notion-client
+openpyxl
+webdriver-manager

@@ -1,0 +1,19 @@
+# .gitignore
+
+# Arquivos de ambiente
+.env
+/acess/
+
+# Arquivos de log e cache
+*.log
+__pycache__/
+.pytest_cache/
+NUL
+
+# Pastas de downloads e respostas
+/RespostaForms/
+/ValidarRespostas/
+
+# Arquivos específicos do S.O.
+.DS_Store
+Thumbs.db
